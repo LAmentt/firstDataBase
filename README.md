@@ -17,6 +17,6 @@ O objetivo principal do trabalho foi **aprender e compreender o funcionamento b√
 
 - Banco de dados (conceitos introdut√≥rios)
 - Linguagem utilizada no projeto
-- HTML / CSS / JavaScript 
+- JavaScript 
 
 
